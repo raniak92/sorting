@@ -1,0 +1,23 @@
+PROCEDURE INSERTION(VAR arr:array_of integer)
+VAR
+    i,  :integer
+BEGIN
+
+   
+
+
+
+
+
+   
+END
+
+
+
+
+ALGORITHM INSERTION 
+VAR
+  
+BEGIN
+    
+END
